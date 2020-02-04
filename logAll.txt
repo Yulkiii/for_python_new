@@ -1,0 +1,6 @@
+11/21/18.50 log in
+.created new python file for video frame transfer,14_1 and 14_2
+11/21/23.13 log in
+.copied better python file to adjust opencv
+.fps=15
+.pretty good
