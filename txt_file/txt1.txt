@@ -1,0 +1,206 @@
+一、目标检测
+Describe: CVPR 2019 | 旷视提出新型目标检测损失函数：定位更精准
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247486607&idx=1&sn=17554987819b343e1f1bb066ea3e21ad&chksm=96f37edba184f7cdffe461edb2a89eb72bd493061cfc9b841ca5043c003a611a8855326d039d&mpshare=1&scene=22&srcid=0828kphGGoXwZThz28xhSUR7&sharer_sharetime=1567004558685&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 综述 | CVPR2019目标检测方法进展
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247487298&idx=1&sn=0c7166808ef88b5c527c8951d1883cec&chksm=97d7ead5a0a063c3dfc7adb9b262bccd01a2a08011b4d8ec8fbffc565668bed20fdf96914194&mpshare=1&scene=22&srcid=0824BcuW0I08UMVnDz8i75HC&sharer_sharetime=1566576800697&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 综述 | CVPR2019目标检测方法进展
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247487298&idx=1&sn=0c7166808ef88b5c527c8951d1883cec&chksm=97d7ead5a0a063c3dfc7adb9b262bccd01a2a08011b4d8ec8fbffc565668bed20fdf96914194&mpshare=1&scene=22&srcid=0824BcuW0I08UMVnDz8i75HC&sharer_sharetime=1566576800697&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CMU和旷视科技开源：KL-Loss目标检测边界框回归新算法（CVPR2019）
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247488278&idx=1&sn=3b391e676ff250f586302fca21884df9&chksm=f9a26199ced5e88f339e34d044898bf039e8a90fa13a6561249af12eda49b0301494bc6984e4&mpshare=1&scene=23&srcid=0830KeVXVFvgiA3rw3DU80gN&sharer_sharetime=1567820318342&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: Guided Anchoring: 物体检测器也能自己学 Anchor
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487300&idx=1&sn=3b5f6386f9a31acf48f377cf23e6af6f&chksm=ec1fe2bddb686bab3b569768ff2b5bec60f10606352b72b861bbb0d616f61f15a91996b90fb0&mpshare=1&scene=23&srcid=0830lpLflpQIGjkVsC5mcOnt&sharer_sharetime=1567820389320&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: ICCV 2019 | 南开提出边缘引导的显著目标检测算法EGNet，刷新主流数据集所有评价指标
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247488251&idx=1&sn=03127792153541e1f64b7d1551b1d95c&chksm=96f360afa184e9b9e6465e66025158fb7d9b7013909addb2b0c2a6a63fac30a859329372514b&mpshare=1&scene=23&srcid=0907NneVnJwnxH6MR20EOsrZ&sharer_sharetime=1567820465541&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 最新的目标检测的深度架构 | 参数少一半、速度快3倍+（文末福利）
+Link: https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247487992&idx=1&sn=2e5a7c5841abaa42cc9dbb135c790bce&chksm=fb726d24cc05e4329d3fd2d4830000390ec3e38d81116274edfd1a138a6a422baf789104e347&mpshare=1&scene=23&srcid=0907ohzhOUsxQntQEhzK0fj1&sharer_sharetime=1567823097963&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 目标检测中边界框的回归策略（从YOLO到CenterNet）
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491339&idx=4&sn=f393251e4231a50ebaef956d05b50fe4&chksm=f9a26d84ced5e492f35e507b82448e8172e1723d7ba15a6d6a255be140f7b553baac3e24df0b&mpshare=1&scene=23&srcid=0907elkA0PWyrOWEJ5ej5xMr&sharer_sharetime=1567823341876&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: ICCV2019 | 旷视科技提出：ThunderNet（轻量实时）目标检测网络
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491419&idx=3&sn=f002b239c387af4d79b78ea0cc8f2fff&chksm=f9a26dd4ced5e4c25a8fe463562e39203045e51a2c8fccb06f939fd49ead0931fc91fc7d8082&mpshare=1&scene=23&srcid=0907yPgUT5CNsekpp179Z2B1&sharer_sharetime=1567823563477&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 目标检测中边界框的回归策略
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490492&idx=1&sn=63552742e0ae2ddb863360cab7f6f433&chksm=ec1ff645db687f53124ef9bd3d768e260b37e86f315874c5a3948b2f8c22c4b2055dd5ce8f22&mpshare=1&scene=23&srcid=&sharer_sharetime=1567958406406&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 国科大提出FreeAnchor，新一代通用目标检测方法，代码已开源
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247488414&idx=2&sn=9746fca7d9a19295e828b125bd954fbb&chksm=96f361caa184e8dc1a84bf7063c9a1ed0365d3018e05fd752c1fe96e54e38562e0a8c73153b4&mpshare=1&scene=23&srcid=0911zYs5dhNn2yJlpFngKUSa&sharer_sharetime=1568162054656&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 我这两年的目标检测
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491554&idx=2&sn=f0662a41fadb79cb52c92633f4da0eaf&chksm=f9a26d6dced5e47bc5ae68310aad4d83d0bbd579c31d401d09583284b8442e037754af030688&mpshare=1&scene=23&srcid=&sharer_sharetime=1568679963501&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: Res2Net：新的深度学习多尺度结构，提升物体检测立竿见影
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491022&idx=2&sn=68f04a4289318ffb3d72925bb36578eb&chksm=ec1ff037db68792172d741c49cc2a58a6dcfb9bcff3932f3724880a4a6ffd8a7cabebe213990&mpshare=1&scene=23&srcid=&sharer_sharetime=1569797070457&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: LFFD 再升级！新增行人和人头检测模型，还有了优化的C++实现
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247488646&idx=1&sn=e1849eda9652121c4255c9d40830240b&chksm=96f366d2a184efc4f972fb11e7b6a6c28b11f70352874ce0ac632cd32b0ebf3492f72a4b7972&mpshare=1&scene=23&srcid=0926AdewdkJUFdf4wz6fSarO&sharer_sharetime=1569561365730&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 小于1MB的行人检测网络
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490837&idx=3&sn=e7da81b0817bc99c269930ef06289bf4&chksm=ec1ff0ecdb6879fa9f7f3b7e6efa1805f50d412ff5bfd999d75a9806af0927cf4aeeb8f47084&mpshare=1&scene=23&srcid=&sharer_sharetime=1569281324560&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 快速精准的人头检测，代码已开源
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247484328&idx=1&sn=917c264e355872113ff47f0a1ec20845&chksm=96f371fca184f8ea2522b071cb8671340ae43b1f2eb12239e35cb7df33b089f935c127e6eb43&mpshare=1&scene=22&srcid=08309CpDohVQ9Bnipc1zStCH&sharer_sharetime=1567177036051&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: SlimYOLOv3：更窄、更快、更好的无人机目标检测算法
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490747&idx=2&sn=d0f347e531510f6a355be64e09a0feac&chksm=ec1ff142db687854cf2b90701c6f80fb92e57b130779bbce07d23b1097fd297d6e67c9bdac63&mpshare=1&scene=23&srcid=&sharer_sharetime=1568907816166&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 论文也撞衫，你更喜欢哪个无锚点CenterNet？
+Link: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770249&idx=3&sn=ede0d6f0f3fdc8756251535538a3204d&chksm=871a4f37b06dc621ca039bcdad2a582fc7ea0906ff1f3540cc5e06474e6d20fa1f678eb16269&mpshare=1&scene=23&srcid=&sharer_sharetime=1568735735986&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR2019 | 快、好、实现简单并且开源的显著性检测方法
+Link: https://arxiv.org/abs/1904.08739
+Describe: 计算机视觉方向简介 | 人体骨骼关键点检测综述
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485824&idx=1&sn=477c811a0f1c1a9d6e410dcf88d7a1ca&chksm=97d7ec17a0a06501466b60ec5da6c38b2f89fe9f906c1c376efe05dee6e4e01c9455af41ceb2&mpshare=1&scene=22&srcid=0827YoF0iDcBJu3UlBRt9ti5&sharer_sharetime=1566867746067&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 比Tiny YOLOv3小8倍，性能提升11个点，4MB的网络也能做目标检测
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491187&idx=3&sn=3ca95c5eb1ea274a1b25616d01060a28&chksm=ec1ff38adb687a9c2ecbec4b6b95b2835eb16e71882c5ab734ceded0d85f40da99de1147a996&mpshare=1&scene=23&srcid=1010C28Wg2N9PLhR8iOSe9G4&sharer_sharetime=1571272601200&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 论文 | 行人检测最新论文收集
+Link: https://mp.weixin.qq.com/s?__biz=MzU2NTc5MjIwOA==&mid=2247486974&idx=2&sn=83a0c35ae732e57d4f71b137f5f56129&chksm=fcb71141cbc09857db9507762c000d988564b283e0ff5dd90363acc8c81efa6b8f70c6bd4339&mpshare=1&scene=23&srcid=&sharer_sharetime=1571062065803&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: Gaussian YOLOv3：一个更强的YOLOv3，现已开源！
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247492462&idx=2&sn=d6aadbe8c8adc5a43b82d8c68f897c5c&chksm=f9a191e1ced618f74cd2ad6d883b8baab4a4b7a0cca0bae91e5033d5dcbcd93452bbf6487bd3&mpshare=1&scene=23&srcid=&sharer_sharetime=1572221345317&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: YOLOv3剪枝再升级！
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489169&idx=2&sn=f8b1c76a6657b8065d039df704df5913&chksm=96f364c5a184edd3bd3754854c494da4912b6fc90735ee1350ab031862aed5466881f41a68ab&mpshare=1&scene=23&srcid=&sharer_sharetime=1572909774661&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: ICCV2019 | Gaussian YOLOv3，更强的YOLOv3
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489169&idx=2&sn=f8b1c76a6657b8065d039df704df5913&chksm=96f364c5a184edd3bd3754854c494da4912b6fc90735ee1350ab031862aed5466881f41a68ab&mpshare=1&scene=23&srcid=&sharer_sharetime=1572909774661&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: DetNAS：首个搜索物体检测Backbone的方法 | NeurIPS 2019
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489223&idx=2&sn=f76f94a84063b54f1daef775a568271b&chksm=96f36493a184ed85cfb78b40cb0bd2355f9ef4da38eb63b315894ed64aaa0b023578a7645e30&mpshare=1&scene=23&srcid=1107ERod3JIhLyGuVLYmxO00&sharer_sharetime=1573129625387&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: xYOLO | 最新最快的实时目标检测
+Link: https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247488292&idx=1&sn=c78a6c09675d4e7eaefde5fb2ba0cd15&chksm=fb726ff8cc05e6ee3ab2d3b039318f603724fb5d871507547c002882fcbfa1a19fb64f729158&mpshare=1&scene=23&srcid=&sharer_sharetime=1576024598257&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 47.4mAP！最强Anchor-free目标检测网络：SAPD
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247494195&idx=2&sn=e230aac9d25bbdf4d49e7b68723f2e66&chksm=f9a198bcced611aaa5e2a7f32398028c91839eeddf217d3935b907da6d7da3dba2718c34f61f&mpshare=1&scene=23&srcid=&sharer_sharetime=1576024518034&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: YOLOv3通道+层剪枝，参数压缩98%，砍掉48个层，提速2倍！
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492518&idx=3&sn=62984d0c003be1ef6fd4be99a2d1eb92&chksm=ec1c0e5fdb6b8749095434c7b472adf7caffa6c9fcc9dd90af8b23949c8613eaf9e236964319&mpshare=1&scene=23&srcid=&sharer_sharetime=1576024425792&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 一文看尽16篇目标检测最新论文（ATSS/MnasFPN/SAPD/CSPNet/DIoU Loss等）
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247494347&idx=1&sn=4381090930b1f151294443883a3e4390&chksm=f9a19844ced61152e8b8ca7f0cfa3a27da1b7a290d762f3f24c53c0221b12711ca5bca050e1e&mpshare=1&scene=23&srcid=&sharer_sharetime=1576024244334&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: DIoU YOLOv3：更加稳定有效的目标框回归损失
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247493985&idx=3&sn=23da3173b481d309903ec0371010d9f2&chksm=f9a19beeced612f81f94d22778481ffae16b25abf20973bf80917f9ff9b38b3f78ecd8237562&mpshare=1&scene=23&srcid=&sharer_sharetime=1576024943993&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: ThunderNet | Two-stage形式的目标检测也可很快而且精度很高
+Link: https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247488310&idx=1&sn=ad93ab39420cf981658fabd2cbbff6dc&chksm=fb726feacc05e6fced1f2138742a734bc855b083bab99a22f7595390aa2ef2b726e5fbff5133&mpshare=1&scene=23&srcid=&sharer_sharetime=1575938223988&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: RefineDetLite：腾讯提出轻量级高精度目标检测网络
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489785&idx=3&sn=30a1ea5d04bcf53ddaacd7b91e1c5ecf&chksm=96f36aada184e3bb2028e8c1a3b9c9d4459295d81beabb27cd3fc1a88246f2e9258b04a54765&mpshare=1&scene=23&srcid=1209OqDiw6sCXllDuJB8rbmu&sharer_sharetime=1575938141170&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: EfficientDet：COCO 51.0 mAP！谷歌大脑提出目标检测新标杆
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489541&idx=2&sn=058db26ce8a5f0e1e2c7f1c9434b84e8&chksm=96f36a51a184e347f19cdba2213d6a3995fb96b892357f6cad40892bfa4924c8523cbcf86564&mpshare=1&scene=23&srcid=&sharer_sharetime=1575199381504&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 大盘点 | 2019年4篇目标检测算法最佳综述
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247493715&idx=3&sn=3f684b51a604cc5d4878a5716aaf2b3f&chksm=f9a19adcced613caa3eef7240dfbf00e866ece9f1ce48366b63984620d1512f16a921ccdb7cf&mpshare=1&scene=23&srcid=1201La7w0Twf2sbtFTsx3cRi&sharer_sharetime=1575198975178&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: Scale Match：国科大提出小目标检测的尺度匹配方法，用于预训练数据集处理
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247490005&idx=2&sn=f519eeff5fbaeb3d15ee000be5a1c1ec&chksm=96f36b81a184e2976125dbb1711e45c46d8b3838504d5602b668c78e04911c563bbab72c2542&mpshare=1&scene=23&srcid=&sharer_sharetime=1577455954882&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 一文看尽9篇目标检测最新论文（MFPN/CR-NAS/Scale Match/Dense RepPoints等）
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247495105&idx=2&sn=b4610bd2ce8795254a480c1c786c0152&chksm=f9a19f4eced61658c782230280b88e0224ad1998f3fb8e67e4c13834aa6534780ff9dbce35e5&mpshare=1&scene=23&srcid=&sharer_sharetime=1577455770544&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 一文看尽10篇目标检测最新论文（SpineNet/AugFPN/LRF-Net/SABL/DSFPN等）
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247494659&idx=2&sn=385f5f4f220caa9e99ef8ea69e367d51&chksm=f9a19e8cced6179aac95b844a057f82daeb619646051faa2befa5d3ba42709917c2a8f1cc35f&mpshare=1&scene=23&srcid=&sharer_sharetime=1576722130845&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+二、人脸相关
+Describe: 目前最强性能的人脸检测算法（Wider Face Dataset）
+Link: https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247487999&idx=1&sn=95b38a6ce23b0b798038a517123f546f&chksm=fb726d23cc05e435e4f06e87d79e6791746a30da0544c6d962e32169862ef9dbc39425706cce&mpshare=1&scene=23&srcid=0907OfvMvgmTvyP3yiFQmex6&sharer_sharetime=1567823489605&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: LFFD：轻量级人脸检测器，不止是快
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247488269&idx=2&sn=07b17f6b738906256ac9690694684c8e&chksm=96f36159a184e84ff984bdf3ac331c5acc9ea82414f49b3ccdd07d1d286e8837ce3ee8e41f00&mpshare=1&scene=23&srcid=0907JbKvJY5V8jQqPGctx4fK&sharer_sharetime=1567823205687&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 腾讯（优图）新技术的人脸检测
+Link: https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247488007&idx=1&sn=3c17aa9e6f805f87f68b3c7a90131ddd&chksm=fb726edbcc05e7cd31415d3a002db250b0004f0e6ed8d6bc47b4e3f4c49e44d4ce0972c7a436&mpshare=1&scene=23&srcid=&sharer_sharetime=1567946363520&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 尺度不变人脸检测：Group Sampling
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247488414&idx=3&sn=cb468dabb191e69fc880b16ff4c23442&chksm=96f361caa184e8dcd670f847032bc4540217ad0a1fe48c0dd1b2324d4d0786fae59767f1b91b&mpshare=1&scene=23&srcid=&sharer_sharetime=1568118613428&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: PFLD：简单、快速、超高精度人脸特征点检测算法
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247485751&idx=1&sn=557d4d863a129efd48e1871698adf42a&chksm=96f37b63a184f2751a232e4c0bf3af18a02c5b76aef509ee751e1662feb1cbc0275d0db247fe&mpshare=1&scene=23&srcid=0912VGS9XLsnBA4Iq68QiM8n&sharer_sharetime=1568269403709&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 使用ONNX+TensorRT部署人脸检测和关键点250fps
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491564&idx=3&sn=f45651e4e7dc32178ac1abb1d520f6ba&chksm=ec1ff215db687b03dd646e2dd2828adfd694732a1c51434745dfb364e6fadfbcec3b3b29fd85&mpshare=1&scene=23&srcid=&sharer_sharetime=1571756134194&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 模型】CenterFace:实用的边缘设备无锚人脸检测器
+Link: http://bbs.cvmart.net/articles/1117?from=groupmessage
+Describe: 模型仅1MB，更轻量的人脸检测模型开源，效果不弱于主流算法
+Link: https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247531439&idx=3&sn=5cbf7c4266f18d866555a30daba1b008&chksm=e8d0ccdddfa745cb65c0357ad4296e7d02d7e7f5b222598cc0990da353ed610ffdb8a7695456&mpshare=1&scene=23&srcid=&sharer_sharetime=1571062148057&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 人脸专集1 | 级联卷积神经网络用于人脸检测（文末福利）
+Link: https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247488130&idx=1&sn=7f530a17ce4aa554d4b8cbc0b44d67b5&chksm=fb726e5ecc05e748b00b3f8e35b1abb68767c9b2c3580d70b0520cc73e0896d5607120273f7f&mpshare=1&scene=23&srcid=&sharer_sharetime=1572910284825&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: TPAMI 2019 | 鲁棒RGB-D人脸识别
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247487720&idx=1&sn=07d489571ddd5a106e5d5b35f6d2b386&chksm=97d7f57fa0a07c69ad4074df86ea6ebe89109ad0158daff30aa5e7eafb59699b0bb22c21d18c&mpshare=1&scene=22&srcid=0824NtXaeBXH8qcfwJitIXs7&sharer_sharetime=1566576985691&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 地平线开源轻量级、有效可变组卷积的人脸识别网络VarGFaceNet
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489094&idx=4&sn=b1049718e8ebb48888bb5912c10c91fe&chksm=96f36412a184ed04be2541f0613aa9e0e7542ddb73b8bc09f18dc9a0c20df8a56b44652564af&mpshare=1&scene=23&srcid=&sharer_sharetime=1572445856530&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 面部识别必看！5篇顶级论文了解如何实现人脸反欺诈、跨姿势识别等
+Link: https://mp.weixin.qq.com/s?__biz=MzU3NjE4NjQ4MA==&mid=2247486402&idx=3&sn=bc1d10d3ceab21bd3de2209ba93b0584&chksm=fd16faddca6173cb7257c1d6107193e984bb6dd302be012505a2fcadda67a0f28adb86ac7950&mpshare=1&scene=23&srcid=&sharer_sharetime=1573861461993&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR 19系列 | 基于深度树学习的Zero-shot人脸检测识别（文末论文）
+Link: https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247488172&idx=1&sn=7407cfd23c7aad8d7163906e8e60e1d4&chksm=fb726e70cc05e766890f37c6d82fb884d6588d4631e0ba110e7282fe74366de340e1c28adf68&mpshare=1&scene=23&srcid=&sharer_sharetime=1574175243329&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: ICCV 2019轻量级人脸识别挑战赛三冠军技术方案
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492356&idx=2&sn=d05f6d583bcb31d3f1c4c5b594c7a3f4&chksm=ec1c0efddb6b87ebf3f4521eb0895847624a6cf46ca2306767c866ffcf34ed51c57bb2aae5af&mpshare=1&scene=23&srcid=&sharer_sharetime=1576024980486&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR2019 | 人脸聚类——Linkage Based Face Clustering via GCN
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488093&idx=1&sn=1c9e9c135ef4d0f2a5289d1381d6bcf6&chksm=ec1fffa4db6876b2d25fded2f9a24dbf72fed1cc18926dd021e43f0fb2e1ab85f50898ea5907&mpshare=1&scene=22&srcid=0830o5bHtoUAKyXR4eiwIoeF&sharer_sharetime=1567094978754&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 新思路！商汤开源利用无标注数据大幅提高精度的人脸识别算法
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247484244&idx=1&sn=7ad4ee154f24f1cc15bf16b9a4ceaf5a&chksm=96f37100a184f816f76311a944785fd572a1de2963f691ace6c87bd9dc8edad5b86facb650c2&mpshare=1&scene=22&srcid=&sharer_sharetime=1566776396529&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: PRNet：人脸3D重建与密集对齐
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247483729&idx=1&sn=dc9ae0305f3b50f1badff69cafa7682d&chksm=96f37305a184fa13b1559d5e794e4da949d9619834c905b72cf92608e52685c6a8792807f947&mpshare=1&scene=22&srcid=0827bj9dtdJJC6WMDjem8MSC&sharer_sharetime=1566867869075&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR2019 oral | 这个面部3D重建模型，造出了6000多个名人的数字面具
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487646&idx=1&sn=e00277dc49a73264ef9330affba3cb64&chksm=ec1ffd67db687471c1d6d928ab99a4de1bf1e9cf2e0417ca4dcc1aac942d38c4708bfb9ee0d8&mpshare=1&scene=23&srcid=0830JDcrHDV4u7zeZo8LYslz&sharer_sharetime=1567820344320&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: ICCV 2019 Oral | 三维"ZAO"脸，单张图片估计人脸几何，效果堪比真实皮肤
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247488322&idx=1&sn=97609602f425c7b31739343554b923eb&chksm=96f36116a184e8000ae1c05e8d3bf8d49349094b002662527399c3f821c9a5cafca81e470217&mpshare=1&scene=23&srcid=0907S5nx6CBwcLTRTQh6D4Wz&sharer_sharetime=1567823434043&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 计算机视觉方向简介 | 人脸颜值打分
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247487520&idx=1&sn=a9b3be3a25c39a36b40833a8dcd9b935&chksm=97d7f5b7a0a07ca1e0e8c00a96cab213fef9c1c7814f0a09f5927d97ae59647b50537400419f&mpshare=1&scene=22&srcid=0827GHH9Zj8KTPSXV6QLmsHE&sharer_sharetime=1566867648190&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 计算机视觉方向简介 | 人脸识别中的活体检测算法综述
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485856&idx=1&sn=a8f756de3d8338b14cdef1f892bb16a2&chksm=97d7ec37a0a06521e5c61ffa9aa71b1236fb3a7a45d6b9c082b7f7be2f3a5495a8fc8ce04c33&mpshare=1&scene=22&srcid=0827yZQkBNlAZucW00rmCtQe&sharer_sharetime=1566867760173&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 计算机视觉方向简介 | 唇语识别技术
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247486124&idx=1&sn=9d11df40e54a705eca90d9db36098464&chksm=97d7ef3ba0a0662db5115a2a8d08cf15ae2f9e58b85f782b53f30b849a340b7702e171d1e1aa&mpshare=1&scene=22&srcid=0827lAm6HGdSEhDbR4cM1Q7l&sharer_sharetime=1566867580505&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR 2019 论文大盘点-人脸技术篇
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247487264&idx=2&sn=6e95b0507c8a8322b07e5b979ebee10f&chksm=96f37d74a184f462511708241e18579b97faa3b177f80bbe19ae41d21daff8cf15aa593d9ac7&mpshare=1&scene=23&srcid=0907mUCi4pMsytTn5KKL4fCv&sharer_sharetime=1567823407870&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 人脸分割、交换、感知
+Link: https://zhuanlan.zhihu.com/p/69065550?utm_source=wechat_session&utm_medium=social&utm_oi=722207691937689600
+Describe: Github | 人脸识别手册 (分类论文集)
+Link: https://mp.weixin.qq.com/s?__biz=MzU2NTc5MjIwOA==&mid=2247487859&idx=2&sn=dd46b2ea71e5791160cf6c159b6a5601&chksm=fcb70dcccbc084dad43ad3b70e9baf72a5b300ec4830f8ffefef8d8a54d6658b875ec6318aa8&mpshare=1&scene=23&srcid=&sharer_sharetime=1577455998382&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 人脸识别剩下难题：从遮挡，年龄，姿态，妆造到亲属关系，人脸攻击
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492810&idx=1&sn=52b618f9d7de732b69d54fc6695a999a&chksm=ec1c0933db6b80252f4347c014b8ec933b12231b5e7de9b6c68bc90061c991163f77f55fc5c9&mpshare=1&scene=23&srcid=&sharer_sharetime=1577372268456&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+三、图像分割
+Describe: 干货|申发龙 关于语义图像分割：FCN和Guidance CRF（PPT）
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247484574&idx=2&sn=a49afe7c25f654198528fc0c8e462d1c&chksm=ec1fe967db6860713b2260f6cc0932e31e6131c57603f7bc8ea9bc6da410c0366d09c75cc732&mpshare=1&scene=22&srcid=0830mnC8QbDIsjUqpUj5iEFT&sharer_sharetime=1567176437042&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 精度高、模型小、速度快！梯形DenseNets结构实现语义分割新高度！
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247487573&idx=2&sn=76001a5136001bae0ca5f2dfa9b92692&chksm=97d7f5c2a0a07cd452059cb633678ef7c21ff581a7237e5314e4ed9eb25f2558283e678e6094&mpshare=1&scene=22&srcid=0824EdGqaxUrzUfO8wlekRSK&sharer_sharetime=1566577518262&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR 2019 | 微软亚研院提出用于语义分割的结构化知识蒸馏
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247487291&idx=2&sn=45c307650a43562c11ee11b34f7a8ccd&chksm=97d7eaaca0a063ba9d5ad4f7a55f374534ea29c26e91b9ba0b207fbf1cfc5f7256373bf512de&mpshare=1&scene=22&srcid=0824qzsmmebL0kYrIbuW6wXB&sharer_sharetime=1566576592108&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 开源nnU-Net医学影像分割论文，可自动调参，适应所有数据集
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247490747&idx=1&sn=79be3325bc8a52c4fd5cda27881a4f7c&chksm=ec1ff142db687854f1d29b67baf68c82fac16035171223e570e1acd2b102b61a49e605604899&mpshare=1&scene=23&srcid=&sharer_sharetime=1568907799850&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 重磅！百度飞桨发布工业级图像分割利器PaddleSeg，模型超多，超快，超强！
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491618&idx=2&sn=7a0341d9bf739d4f0a1c4d8278a35230&chksm=f9a192adced61bbb83240ff27e879d9893a594f2430c87401686561bd746b948d98eead12d71&mpshare=1&scene=23&srcid=&sharer_sharetime=1568858652133&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 首个镜子分割网络问世，大连理工、鹏城实验室、香港城大出品 | ICCV 2019
+Link: https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247529887&idx=4&sn=edaeb7442b67d0be4f0515884b1c506c&chksm=e8d0c2eddfa74bfb699d63f3489a5455ae4afcb7273acb103ce01b2a7a38549a78794ab5664d&mpshare=1&scene=23&srcid=&sharer_sharetime=1568735797720&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: PSPNet | 语义分割及场景分析
+Link: https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247488564&idx=2&sn=3a723df7fa572f3e85e99e6a04d65fab&chksm=97d7f1a3a0a078b5ca8c1629b05e1b7b73af1118fe1ed1115a52a46bf816ab49f4b251625597&mpshare=1&scene=23&srcid=&sharer_sharetime=1569421140648&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 极市直播|李夏：语义分割中的自注意力机制和低秩重建（ICCV Oral，已开源）
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491532&idx=1&sn=3fbfcbd4f85d190c240bab29fa83d4d2&chksm=ec1ff235db687b232bdec50acf35d3e633eec766ce50190fe0dababe8731f45675277aacbc4f&mpshare=1&scene=23&srcid=&sharer_sharetime=1571756520551&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 图像分割中的深度学习：U-Net 体系结构
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247488752&idx=3&sn=23f223fb82c64c14eb925ebd19d16fc5&chksm=96f366a4a184efb241467f43933748dee83d7678a7bf9e682b773efcbbd4a369ece0ca35d209&mpshare=1&scene=23&srcid=&sharer_sharetime=1570280798272&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 一文看尽4篇实时语义分割最新论文（MSFNet/LiteSeg/FDDWNet/RGPNet）
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247494706&idx=3&sn=ac4309730394b9ae1700fee53116d95e&chksm=f9a19ebdced617ab2089d0edcf156ae3c3f3a465744dab3e7e465d995a57478e03cabd6f5d32&mpshare=1&scene=23&srcid=&sharer_sharetime=1576722014052&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 超Mask RCNN速度4倍，仅在单个GPU训练的实时实例分割算法
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247487249&idx=2&sn=e743eee2445b45017c3a2f5e5f961e6e&chksm=96f37d45a184f453161341e598b3c0a51c16fae5777a8bc6d5caec3becd4e50cc60004d28562&mpshare=1&scene=22&srcid=0830ZJQHZc86fYZaI2D0f31R&sharer_sharetime=1567176720160&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR2019 | 实例分割的进阶三级跳：从 Mask R-CNN 到 Hybrid Task Cascade
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487586&idx=1&sn=15560e8b45d330875364272c1f03c068&chksm=ec1ffd9bdb68748d7d6f1d03ce2dd03c77643511dba8311d1bc569c6bd0d5faf9fd9fed5315c&mpshare=1&scene=23&srcid=0830VUxGh9T9uv2WaZ59RqQm&sharer_sharetime=1567820362538&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: Mask-RCNN论文解读
+Link: https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247488253&idx=2&sn=f1b20bef492722999d5113f655cb199f&chksm=f9d14c65cea6c573a1b4a611f2604b3055f2764febcebe18d0cca3b873fb69686104f9fdb00a&mpshare=1&scene=23&srcid=0907Lk8u3lvtCUCwmYYhSzLq&sharer_sharetime=1567823532477&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 何恺明、陈鑫磊最新研究：提出实例分割新方法TensorMask，效果比肩Mask R-CNN
+Link: https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247517960&idx=4&sn=7673562976d022540eb18d6bb466e203&chksm=e8d0307adfa7b96c1863d4dd4a3125353db42df2898252e9c11076fa8e0c3e767cd87f076af8&mpshare=1&scene=23&srcid=0907lKZ0NSCQVITp1ZAkUlgZ&sharer_sharetime=1567823596932&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 刷新世界纪录！创新奇智荣获Cityscapes 实例分割冠军
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491636&idx=2&sn=72cdde72b322792f4ab052372f957dcd&chksm=f9a192bbced61badfcaf9efb9036598c701a0c1d2f4dbe42e3d1dbef47d229462c3ccdb55390&mpshare=1&scene=23&srcid=&sharer_sharetime=1568938677914&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: ICCV 2019 | 旷视提出新型抠图方法AdaMatting，刷新最高精度
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247488558&idx=3&sn=17aa1d389a856285d7f1f3178ea127c0&chksm=96f3667aa184ef6c2e45505ab2cc116084bbedd7864b93fff8160c3df8c9dafbe08d316566a5&mpshare=1&scene=23&srcid=&sharer_sharetime=1568896442505&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 刷新世界纪录！创新奇智荣获Cityscapes 实例分割冠军
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491636&idx=2&sn=72cdde72b322792f4ab052372f957dcd&chksm=f9a192bbced61badfcaf9efb9036598c701a0c1d2f4dbe42e3d1dbef47d229462c3ccdb55390&mpshare=1&scene=23&srcid=&sharer_sharetime=1568938677914&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: PolarMask: 一阶段实例分割新思路
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491199&idx=1&sn=6dab24a1bca83ee2cbf7c4a423aaf8bb&chksm=ec1ff386db687a905eaa37e0aefa6dc69c45957173bc25c999c6fda66eeb32890cdb5a3e3ba8&mpshare=1&scene=23&srcid=&sharer_sharetime=1571272654773&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 港大和商汤等提出 PolarMask：一阶段实例分割新思路
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491898&idx=3&sn=d887bd9661d3ab9f0bdcf8c1b69c817e&chksm=f9a193b5ced61aa3b5c8ded50d037f36d4a9862d902c0f1e01d4c44a920988de83b217a32950&mpshare=1&scene=23&srcid=&sharer_sharetime=1570280734975&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: ICCV 2019 | Label-PEnet: 基于序列化标签传播与增强网络的弱监督实例分割
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247492788&idx=4&sn=d87c0459224859d95af03466f9391235&chksm=f9a1963bced61f2dc6b45725a5eee70276065376e7db02f63c51db64a7e948b972a2857f6d8c&mpshare=1&scene=23&srcid=&sharer_sharetime=1572909682427&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 韩国ETRI提出实时Anchor-Free实例分割算法CenterMask，代码将开源
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489462&idx=2&sn=a6b2be66e4d7d19a3f483df4efb81a61&chksm=96f365e2a184ecf422aef6e460a8a0877fdb089d351323a16f1b1f020af48166af8b7ebb2a5c&mpshare=1&scene=23&srcid=11181xTJcE4mgeZYvW6yTPZO&sharer_sharetime=1574138956761&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: YOLACT++：更强的实时实例分割网络，可达33.5 FPS/34.1mAP！
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492764&idx=1&sn=2128a96b70333c79bcdf0acb3c0a7b56&chksm=ec1c0965db6b80737dfc6d6737f87d64cd9bcf2b44f855d8b4451b8c22a23ab2dec4fbce79bb&mpshare=1&scene=23&srcid=&sharer_sharetime=1577457043120&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: YOLACT++：目前最热门的实时实例分割开源库
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489987&idx=2&sn=00287d66e0e4d28bf7a4552cdbe4958b&chksm=96f36b97a184e281b115db68fb4d27aa1533c313ef0bd05e0fb686310f9a0fde199f9a5d82bf&mpshare=1&scene=23&srcid=1225mJh03bnvVhxxVjc9Rw4h&sharer_sharetime=1577456451494&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 何恺明团队又出神作：将图像分割视作渲染问题，性能显著提升！
+Link: https://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247483994&idx=1&sn=12e048da305c1881fa20506bb5fd95b1&chksm=fad12d0ccda6a41ae967fb8b3280dd167f0e2fc3a495af83345156d44977571a562d7601bd98&mpshare=1&scene=23&srcid=1219TWj9t7ibo9614F8KvZEE&sharer_sharetime=1576734842764&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 让目标检测和实例分割互相帮助，地平线实习生论文被AAAI 2020收录
+Link: https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247489825&idx=3&sn=c53d5ca0a7622726130bd29c5325b6a2&chksm=96f36b75a184e2633d09acc5f766183156d551086d102ac81eb70c47a18f57d5225d2a3fe436&mpshare=1&scene=23&srcid=&sharer_sharetime=1576724198410&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: YOLACT++：更强的实时实例分割网络，可达33.5 FPS/34.1mAP！
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247494607&idx=2&sn=c9ece015043ae5fb78b6afb158d84ad0&chksm=f9a19940ced61056156f12c0bac6de4d66608da7d064267c4da994106f58a8363f1b5bbbdcad&mpshare=1&scene=23&srcid=&sharer_sharetime=1576722276127&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR2019 | 全景分割：Attention-guided Unified Network
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487527&idx=1&sn=2f798d1036a3bd1b5c6939669fc7f557&chksm=ec1ffddedb6874c85cbbe1d700fb34f8af7d18b3c92c29fb7f30fb69910c1a665059b60663f2&token=65056564&lang=zh_CN&scene=21
+Describe: FAIR何恺明团队最新论文提出“全景FPN”，聚焦于图像的全景分割任务
+Link: http://m.elecfans.com/article/848068.html
+Describe: CVPR2019 | 旷视研究院提出用于全景分割的端到端闭环网络OANet
+Link: https://cloud.tencent.com/developer/article/1448398
+Describe: Facebook AI新架构：全景FPN，同时完成图像实例与语义分割 | 极客头条
+Link: https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247504538&idx=4&sn=2769f64002da12209be42f4aa86e8af3&chksm=e99ee163dee96875c4734bcb382bd0b7fe468c040d51b3bc1b1ff6e3d147eda4b862de8aa76b&mpshare=1&scene=23&srcid=0907abf43pAKlvUXT7mAvPk7&sharer_sharetime=1567823680473&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 速度提升一倍，无需实例掩码预测即可实现全景分割
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491532&idx=3&sn=e00a370b5357467d0e63aaaedb3e5c9e&chksm=ec1ff235db687b2318da762f031922de8e6748ddbbec99323a2db9f002ed5cbc312212217598&mpshare=1&scene=23&srcid=&sharer_sharetime=1571586558546&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 快速全景分割新网络：FPSNet | 分割效率高，速度可达 35 FPS！
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247492229&idx=3&sn=f973dade717fb4b9839c291a791e15cf&chksm=f9a1900aced6191c0c2f58672f09e00490645ed0a0906e6f804bfdde64819b3e984c3f550bbc&mpshare=1&scene=23&srcid=&sharer_sharetime=1571465003674&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: SOGNet：用于全景分割的场景遮盖图网络
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247495034&idx=3&sn=c7d84bcbcc5085bb672b7fc9e9af5918&chksm=f9a19ff5ced616e3d9b4180b833afdca0ff29c18d0ed37aa615eb8c2aaeaba4da0cb0cb7cbe0&mpshare=1&scene=23&srcid=&sharer_sharetime=1577456020910&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 2019年最新基于深度学习的语义分割技术讲解（含论文+指标+应用+经验）
+Link: https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247490953&idx=2&sn=5a4f366f61ffc57e6d22831130b7f131&chksm=f9a26f06ced5e61051ea0d8e77b65dd7914068a3572994fffbc7bd54be6369a7a66ef96a5e81&mpshare=1&scene=23&srcid=09071Ip8z9dfCpxDvI39SxqB&sharer_sharetime=1567823177794&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR2019 | 旷视实时语义分割技术DFANet：高清虚化无需双摄
+Link: https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488641&idx=3&sn=c1694944bc0487ed31c8d16b347559ad&chksm=ec1ff978db68706ef973731b31560b8b3745a95fd07ea07a287cc283e8fa804e6ea329536ed3&mpshare=1&scene=23&srcid=0907zMnTYh2kDJRc4WppYKl0&sharer_sharetime=1567823708747&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: CVPR2019目标分割论文推荐（附论文及代码链接）
+Link: https://mp.weixin.qq.com/s?__biz=MzU2NTc5MjIwOA==&mid=2247485457&idx=1&sn=9374c84225fd37a258d4ed0c85c53bb3&chksm=fcb714aecbc09db8600c4465d2d43d55126af9d3f536ea9d6c1c66c3efd19aff805a5a03319b&mpshare=1&scene=22&srcid=&sharer_sharetime=1566918931671&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+Describe: 超多，超快，超强！百度飞桨发布工业级图像分割利器PaddleSeg
+Link: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650769853&idx=2&sn=d2943c889d03602339b3cd22164e5b30&chksm=871a4dc3b06dc4d58e9b47f8ce6187161b02e04dedbb904f3e28bcede2ac3030d81ccdbe33b9&mpshare=1&scene=23&srcid=&sharer_sharetime=1568161368212&sharer_shareid=5c55e87df338791d997e8905ad2ebfe0#rd
+四、GANS
