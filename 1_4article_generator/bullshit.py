@@ -5,7 +5,7 @@ import json
 data = json.load(open("data.json", encoding="utf-8"))
 
 
-def generator(title, length=1200):
+def generator(title, length=5000):
     """
     :param title: 文章标题
     :param length: 生成正文的长度
@@ -13,10 +13,10 @@ def generator(title, length=1200):
     """
     body = ""
     while len(body) < length:
-        num = random.randint(0, 100)
-        if num < 10:
+        num = random.randint(0, 1000)
+        if num < 100:
             body += "\r\n"
-        elif num < 20:
+        elif num < 400:
             body += random.choice(data["famous"]) \
                 .replace('a', random.choice(data["before"])) \
                 .replace('b', random.choice(data['after']))
@@ -28,5 +28,5 @@ def generator(title, length=1200):
 
 
 if __name__ == '__main__':
-    content = generator("傻叉钱斯文")
+    content = generator("梁杰")
     print(content)
