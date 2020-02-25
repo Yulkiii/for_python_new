@@ -41,7 +41,7 @@ class myThread (threading.Thread):   #继承父类threading.Thread
             if pageNum!=1:
                 datas=soup.select("div.pages > ul > li:nth-child(3) > a")
                 for data in datas:
-                    nextPic='https://m.umei.cc/meinvtupian/meinvxiezhen/'+data.get('href')
+                    nextPic='https://m.umei.Fcc/meinvtupian/meinvxiezhen/'+data.get('href')
                     next_site.put(nextPic)
             datas=soup.select("#ArticleBox > p > a > img")
             for data in datas:
@@ -71,4 +71,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
 
